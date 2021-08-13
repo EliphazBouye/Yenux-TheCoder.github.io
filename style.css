@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+}
+
+.main{
+    text-align: center;
+}
+
+.social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.social a{
+    padding: 0 10px;
+    text-decoration: none;
+    color: #121111;
+}
+
+.social a:hover{
+    color: #188b85;
+}
