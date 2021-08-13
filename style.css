@@ -25,3 +25,7 @@ body{
 .social a:hover{
     color: #188b85;
 }
+
+.count_down{
+    font-size: 3rem;
+}
